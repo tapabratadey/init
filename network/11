@@ -1,0 +1,3 @@
+traceroute slash16.org | grep "nat" 
+
+nat links local network and outside world
